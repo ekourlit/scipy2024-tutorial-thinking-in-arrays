@@ -2,6 +2,8 @@
 
 This repository contains everything you need to follow the "[Thinking in arrays](https://cfp.scipy.org/2023/talk/XBUC8S/)" tutorial, presented at the [SciPy 2023](https://www.scipy2023.scipy.org/) conference on [Tuesday, July 11, 2023 at 8:00am‒12:00pm CDT](https://www.scipy2023.scipy.org/schedule) in [Classroom 103](https://meetattexas.com/floorplans#m1).
 
+[Here is a video](https://youtu.be/d7etLJeK20M?si=m9b3YttCtz8nP31g) of the tutorial, as it was presented in 2023.
+
 <br>
 
 **Abstract:**

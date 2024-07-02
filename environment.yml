@@ -1,4 +1,4 @@
-name: 2023-07-11-scipy-tutorial-advanced-numpy
+name: scipy2024-tutorial-thinking-in-arrays
 channels:
   - conda-forge
 dependencies:

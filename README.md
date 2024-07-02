@@ -1,8 +1,8 @@
-# SciPy 2023 tutorial: Thinking in arrays
+# SciPy 2024 tutorial: Thinking in arrays
 
-This repository contains everything you need to follow the "[Thinking in arrays](https://cfp.scipy.org/2023/talk/XBUC8S/)" tutorial, presented at the [SciPy 2023](https://www.scipy2023.scipy.org/) conference on [Tuesday, July 11, 2023 at 8:00am‒12:00pm CDT](https://www.scipy2023.scipy.org/schedule) in [Classroom 103](https://meetattexas.com/floorplans#m1).
+This repository contains everything you need to follow the "[Thinking in arrays](https://cfp.scipy.org/2024/talk/FUYG37/)" tutorial, presented at the [SciPy 2024](https://www.scipy2024.scipy.org/) conference on [Monday, July 8, 2024 at 13:30am‒17:30pm PDT](https://www.scipy2024.scipy.org/schedule) in [Room 315](https://tacomaconventioncenter.org/floor-plan-capacities).
 
-[Here is a video](https://youtu.be/d7etLJeK20M?si=m9b3YttCtz8nP31g) of the tutorial, as it was presented in 2023.
+[Here is a video](https://youtu.be/d7etLJeK20M?si=m9b3YttCtz8nP31g) of the tutorial, as it was presented last year in 2023.
 
 <br>
 
@@ -41,21 +41,21 @@ If you're new to this package manager, we recommend the mamba/CPython version of
 Once conda/mamba is installed, the command to [create an environment from a file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) is
 
 ```bash
-wget https://raw.githubusercontent.com/jpivarski-talks/2023-07-11-scipy-tutorial-advanced-numpy/main/environment.yml
+wget https://raw.githubusercontent.com/ekourlit/scipy2024-tutorial-thinking-in-arrays/blob/main/environment.yml
 conda env create -f environment.yml   # can replace "conda" with "mamba"
 ```
 
 The command to [activate that environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment) (once per terminal) is
 
 ```bash
-conda activate 2023-07-11-scipy-tutorial-advanced-numpy
+conda activate scipy2024-tutorial-thinking-in-arrays
 ```
 
 Get a copy of this repo and enter its directory.
 
 ```bash
-git clone https://github.com/jpivarski-talks/2023-07-11-scipy-tutorial-advanced-numpy.git
-cd 2023-07-11-scipy-tutorial-advanced-numpy
+git clone https://github.com/ekourlit/scipy2024-tutorial-thinking-in-arrays.git
+cd scipy2024-tutorial-thinking-in-arrays
 ```
 
 Start JupyterLab with

@@ -93,25 +93,15 @@ to follow your progress. It should take you to a page that looks like this:
 
 **0:20‒0:40 (20 min):** Project 1: Conway's Game of Life. Calculating number of neighbors and updating the board "all at once."
 
-Change of plan: project 1 goes until 9:15, and then a 5 minute break.
-
 **0:40‒0:55 (15 min):** Break
 
-Solutions of project 1 starts at 9:20.
-
 **0:55‒1:15 (20 min):** Guided discussion of solutions to Project 1.
-
-Spend only 10 minutes on solutions; move on to part 2 at 9:30.
 
 **1:15‒1:35 (20 min):** Part 2 lecture: array-oriented programming and the "iteration until converged" problem. How to update arrays in which some elements have converged and others haven't.
 
 **1:35‒1:55 (20 min):** Project 2: evaluating a decision tree, by walking over each node individually (as in a computer science class) and by million-ball Plinko! (how Scikit-Learn actually does it).
 
-Finish at 10:25 (a little more than 20 minutes).
-
 **1:55‒2:10 (15 min):** Break
-
-5 minute break: start solutions to project 2 at 10:30.
 
 **2:10‒2:40 (30 min):** Solutions to Project 2.
 
@@ -120,7 +110,5 @@ Finish at 10:25 (a little more than 20 minutes).
 **3:00‒3:25 (25 min):** Project 3: a big, ragged dataset: computing lengths of taxi trips from polylines with varying numbers of edges. Since this is a big dataset, we'll also look at ways to scale it up with Dask.
 
 **3:25‒3:40 (15 min):** Break
-
-Skipping the last break, we work on project 3 until 11:55, and then I'll use the last 5 minutes to show solutions. (Hint: the solution is small enough that it can be done in 5 minutes.)
 
 **3:40‒4:00 (20 min):** Solutions to Project 3.

@@ -24,7 +24,7 @@ You should have a basic familiarity with NumPy, such as the content of the "[Int
 
 This tutorial consists of interactive lectures and exercises, all of which run in Jupyter notebooks. These notebooks depend on the libraries listed in [environment.yml](environment.yml). On the day of the tutorial, we will use Quansight's Nebari platform to run the notebooks in the cloud with all dependencies installed. See
 
-<h3 align="center"><a href="https://docs.google.com/document/d/1vnWhNyUBRpILb2MAHQfTmZQY3pCIaCmroV9ke49nQlE/edit?usp=sharing">Nebari instructions</a></h3>
+<h3 align="center"><a href="https://docs.google.com/document/d/11YWMZKW6Y4tXnMs3Jekc1S7BQWTR6THZazDaq3WoNxw/edit?usp=sharing">Nebari instructions</a></h3>
 
 to get started.
 

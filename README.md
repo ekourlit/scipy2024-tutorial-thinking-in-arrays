@@ -81,7 +81,7 @@ During the live tutorial, participants should open the **lecture-workbook**. The
 
 When everyone is working on exercises, I'll share
 
-<h3 align="center"><a href="https://app.sli.do/event/mAiL1wgxpBXyTrRFTEsC94/embed/polls/da924656-e37b-4aa8-828c-90d7faa58915">this Slido link</a></h3>
+<h3 align="center"><a href="https://app.sli.do/event/dFsiXggxZ3t2B9yhr5zmxZ">this Slido link</a></h3>
 
 to follow your progress. It should take you to a page that looks like this:
 

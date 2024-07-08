@@ -1,4 +1,4 @@
-# SciPy 2024 tutorial: Thinking in arrays
+# SciPy 2024 tutorial: Thinking in Arrays
 
 This repository contains everything you need to follow the "[Thinking In Arrays](https://cfp.scipy.org/2024/talk/FUYG37/)" tutorial, presented at the [SciPy 2024](https://www.scipy2024.scipy.org/) conference on [Monday, July 8, 2024 at 13:30am‒17:30pm PDT](https://www.scipy2024.scipy.org/schedule) in [Room 315](https://tacomaconventioncenter.org/floor-plan-capacities).
 

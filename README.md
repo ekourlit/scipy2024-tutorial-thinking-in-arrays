@@ -89,25 +89,21 @@ to follow your progress. It should take you to a page that looks like this:
 
 ## Timeline of the tutorials
 
-**0:00‒0:20 (20 min):** Part 1 lecture: array-oriented programming as a paradigm: APL, SPEAKEASY, IDL, MATLAB, S, R, NumPy. Overview of basic and advanced slicing, broadcasting, and dimensional reduction. Powerful concept: element indexing is function application and advanced slicing is function composition.
+**0:00‒0:30 (30 min):** Part 1 lecture: array-oriented programming as a paradigm: APL, SPEAKEASY, IDL, MATLAB, S, R, NumPy. Overview of basic and advanced slicing, broadcasting, and dimensional reduction. Powerful concept: element indexing is function application and advanced slicing is function composition.
 
-**0:20‒0:40 (20 min):** Project 1: Conway's Game of Life. Calculating number of neighbors and updating the board "all at once."
+**0:30‒1:00 (30 min):** Project 1: Conway's Game of Life. Calculating number of neighbors and updating the board "all at once."
 
-**0:40‒0:55 (15 min):** Break
+**1:00‒1:15 (15 min):** Break
 
-**0:55‒1:15 (20 min):** Guided discussion of solutions to Project 1.
+**1:15‒1:35 (20 min):** Guided discussion of solutions to Project 1.
 
-**1:15‒1:35 (20 min):** Part 2 lecture: array-oriented programming and the "iteration until converged" problem. How to update arrays in which some elements have converged and others haven't.
+**1:35‒2:05 (30 min):** Part 2 lecture: array-oriented programming and the "iteration until converged" problem. How to update arrays in which some elements have converged and others haven't.
 
-**1:35‒1:55 (20 min):** Project 2: evaluating a decision tree, by walking over each node individually (as in a computer science class) and by million-ball Plinko! (how Scikit-Learn actually does it).
+**2:05‒2:20 (15 min):** Break
 
-**1:55‒2:10 (15 min):** Break
+**2:20‒2:50 (30 min):** Part 3 lecture: non-rectilinear (ragged) arrays and arrays of arbitrary data structures: Apache Arrow and Awkward Array.
 
-**2:10‒2:40 (30 min):** Solutions to Project 2.
-
-**2:40‒3:00 (20 min):** Part 3 lecture: non-rectilinear (ragged) arrays and arrays of arbitrary data structures: Apache Arrow and Awkward Array.
-
-**3:00‒3:25 (25 min):** Project 3: a big, ragged dataset: computing lengths of taxi trips from polylines with varying numbers of edges. Since this is a big dataset, we'll also look at ways to scale it up with Dask.
+**2:50‒3:25 (35 min):** Project 3: a big, ragged dataset: computing lengths of taxi trips from polylines with varying numbers of edges. Since this is a big dataset, we'll also look at ways to scale it up with Dask.
 
 **3:25‒3:40 (15 min):** Break
 

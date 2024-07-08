@@ -2,7 +2,7 @@
 
 This repository contains everything you need to follow the "[Thinking In Arrays](https://cfp.scipy.org/2024/talk/FUYG37/)" tutorial, presented at the [SciPy 2024](https://www.scipy2024.scipy.org/) conference on [Monday, July 8, 2024 at 13:30am‒17:30pm PDT](https://www.scipy2024.scipy.org/schedule) in [Room 315](https://tacomaconventioncenter.org/floor-plan-capacities).
 
-[Here is a video](https://youtu.be/d7etLJeK20M?si=m9b3YttCtz8nP31g) of the tutorial, as it was presented last year in 2023.
+This tutorial is compiled by [Jim Pivarski](https://github.com/jpivarski). [Here is a video](https://youtu.be/d7etLJeK20M?si=m9b3YttCtz8nP31g) of the tutorial, as it was presented by Jim last year in 2023.
 
 <br>
 

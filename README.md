@@ -6,6 +6,15 @@ This tutorial is compiled by [Jim Pivarski](https://github.com/jpivarski). [Here
 
 <br>
 
+> [!NOTE]
+> The file `https://pivarski-princeton.s3.us-east-1.amazonaws.com/chicago-taxi.parquet`, needed for the last exercise, has been deleted. It is now [hosted on Zenodo](https://zenodo.org/records/14537442); download it with
+>
+> ```bash
+> wget 'https://zenodo.org/records/14537442/files/chicago-taxi.parquet?download=1' -O chicago-taxi.parquet
+> ```
+
+<br>
+
 **Abstract:**
 
 Despite its reputation for being slow, Python is the leading language of scientific computing, which generally needs large-scale (fast) computations. This is because most scientific problems can be split into "metadata munging" and "number crunching," where the latter is performed by array-oriented (vectorized) calls into precompiled routines.
